@@ -1,7 +1,7 @@
 ## Desktop
 
-![Desktop](images/dekstop.jpeg)
+![Desktop](dekstop.jpeg)
 
 ## Mobile
 
-![Mobile](images/mobile.jpeg)
+![Mobile](mobile.jpeg)
